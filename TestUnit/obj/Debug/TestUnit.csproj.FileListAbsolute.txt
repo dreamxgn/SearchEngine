@@ -1,0 +1,14 @@
+E:\搜索引擎营销\搜索引擎自动营销助手V1.0\TestUnit\bin\Debug\TestUnit.exe
+E:\搜索引擎营销\搜索引擎自动营销助手V1.0\TestUnit\bin\Debug\TestUnit.pdb
+E:\搜索引擎营销\搜索引擎自动营销助手V1.0\TestUnit\obj\Debug\TestUnit.exe
+E:\搜索引擎营销\搜索引擎自动营销助手V1.0\TestUnit\obj\Debug\TestUnit.pdb
+E:\BaiduNetdiskDownload\搜索引擎营销\搜索引擎自动营销助手V1.0\TestUnit\obj\Debug\TestUnit.exe
+E:\BaiduNetdiskDownload\搜索引擎营销\搜索引擎自动营销助手V1.0\TestUnit\obj\Debug\TestUnit.pdb
+E:\BaiduNetdiskDownload\搜索引擎营销(20170425)_2\搜索引擎自动营销助手V1.0\TestUnit\obj\Debug\TestUnit.exe
+E:\BaiduNetdiskDownload\搜索引擎营销(20170425)_2\搜索引擎自动营销助手V1.0\TestUnit\obj\Debug\TestUnit.pdb
+E:\BaiduNetdiskDownload\搜索引擎营销_1\搜索引擎自动营销助手V1.0\TestUnit\obj\Debug\TestUnit.exe
+E:\BaiduNetdiskDownload\搜索引擎营销_1\搜索引擎自动营销助手V1.0\TestUnit\obj\Debug\TestUnit.pdb
+E:\项目\搜索引擎营销(20170428)\搜索引擎自动营销助手V1.0\TestUnit\obj\Debug\TestUnit.exe
+E:\项目\搜索引擎营销(20170428)\搜索引擎自动营销助手V1.0\TestUnit\obj\Debug\TestUnit.pdb
+E:\公司项目\临时文件\搜索引擎营销(20170601)\搜索引擎自动营销助手V1.0\TestUnit\obj\Debug\TestUnit.exe
+E:\公司项目\临时文件\搜索引擎营销(20170601)\搜索引擎自动营销助手V1.0\TestUnit\obj\Debug\TestUnit.pdb
